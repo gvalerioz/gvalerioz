@@ -4,8 +4,10 @@
 
 
 <div align="center">
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=gvalerioz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img  align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvalerioz&layout=compact&langs_count=16&theme=github_dark"/>
+      <a href="https://github.com/gvalerioz">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gvalerioz&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=16&theme=dark"/>
+      </a>
 </div>
 
 <h3 align="center"> Linguagens Aprendidas:</h3>
