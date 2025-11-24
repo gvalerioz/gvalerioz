@@ -1,12 +1,5 @@
 <img height="80em"  src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
 
-<div>
-    <a href="https://github.com/gvalerioz">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gvalerioz&show_icons=true&theme=blueberry &include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvalerioz&layout=compact&langs_count=16&theme=blueberry"/>
-    </a>
-</div>
-
 
 <h3 align="center"> Linguagens Aprendidas:</h3>
 <div align="center">
