@@ -4,10 +4,10 @@
 <h3 align="center"> Linguagens Aprendidas:</h3>
 <div align="center">
 
-<img align="center" alt="Gabs - C" height="60" width="60" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000">
-<img align="center" alt="Gabs-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Gabs-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Gabs-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Gabs - C" height="60" width="60" src="https://img.icons8.com/?size=100&id=40670&format=png&color=000000"><a></a>
+<img align="center" alt="Gabs-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><a></a>
+<img align="center" alt="Gabs-HTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><a></a>
+<img align="center" alt="Gabs-CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><a></a>
 </div>
 
 ##
